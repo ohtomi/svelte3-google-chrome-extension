@@ -9,7 +9,7 @@
 リポジトリーをクローンしたら、npmパッケージをインストールします。
 
 ```bash
-cd svelte-app
+cd svelte3-google-chrome-extension
 npm install
 ```
 
